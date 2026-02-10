@@ -19,8 +19,9 @@ To view this site locally (MacOS only):
 5. Open `http://localhost:4000` in your browser.
 
 ### Troubleshooting
-- **GitHub Pages compatibility:** The `_config.yml` is configured with `baseurl: "/ateliers-DDD-2026"` and `url: "https://guillaumeagile.github.io"` to ensure CSS and links work correctly when hosted on GitHub Pages.
-- **Theme:** This site uses the `jekyll-theme-minimal` theme for a clean and elegant look.
+- **GitHub Pages compatibility:** The site uses the `jekyll-relative-links` plugin. This allows you to use standard Markdown links like `[Link](./file.md)` in your content. Jekyll will automatically convert these to the correct relative URLs, taking into account the `baseurl` configured in `_config.yml`.
+- **Base URL:** The `_config.yml` is configured with `baseurl: "/ateliers-DDD-2026"` to ensure assets and links work correctly on GitHub Pages. Avoid using absolute paths starting with `/` in your Markdown; instead, use paths relative to the current file.
+- **Theme:** This site uses the `jekyll-theme-minimal` theme.
 - **Sass Deprecation Warnings:** The site uses `@use` in `assets/css/style.scss` to avoid deprecation warnings associated with older `@import` syntax in newer Ruby/Sass environments.
 - **Ruby version:** This project requires Ruby 3.2.0 or higher.
 

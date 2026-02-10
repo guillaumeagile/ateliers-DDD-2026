@@ -1,3 +1,7 @@
+---
+layout: default
+title: Série Le Produit Agile
+---
 # Série "Le Produit Agile : de l'Idéation à la Livraison"
 
 **6 ateliers hands-on de 2h pour maîtriser DDD de bout en bout**
