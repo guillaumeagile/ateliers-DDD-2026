@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.2"
-gem "minima", "~> 2.5"
+gem "jekyll-theme-minimal", "~> 0.2.0"
+gem "jekyll-remote-theme"
 gem "csv"
 gem "base64"
 gem "bigdecimal"

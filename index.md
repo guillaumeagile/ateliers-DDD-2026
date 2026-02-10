@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Bienvenue aux Ateliers DDD 2026
 ---
 
