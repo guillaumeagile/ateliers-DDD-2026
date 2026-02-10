@@ -1,0 +1,6 @@
+title: Ateliers DDD 2026
+description: Site pour les ateliers DDD 2026
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
