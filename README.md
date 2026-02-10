@@ -19,6 +19,7 @@ To view this site locally (MacOS only):
 5. Open `http://localhost:4000` in your browser.
 
 ### Troubleshooting
+- **GitHub Pages compatibility:** The `_config.yml` is configured with `baseurl: "/ateliers-DDD-2026"` and `url: "https://guillaumeagile.github.io"` to ensure CSS and links work correctly when hosted on GitHub Pages.
 - **Sass Deprecation Warnings:** If you see many Sass warnings, they are likely from the theme dependencies. The `_config.yml` is configured with `quiet_deps: true` to suppress these. The `assets/main.scss` has also been updated to use `@use` to avoid the main warning.
 - **Ruby version:** This project requires Ruby 3.2.0 or higher.
 

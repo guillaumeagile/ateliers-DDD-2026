@@ -1,5 +1,7 @@
 title: Ateliers DDD 2026
 description: Site pour les ateliers DDD 2026
+baseurl: "/ateliers-DDD-2026"
+url: "https://guillaumeagile.github.io"
 theme: minima
 plugins:
   - jekyll-feed
