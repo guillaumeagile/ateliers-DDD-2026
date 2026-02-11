@@ -9,9 +9,9 @@ Ceci est le site pour les ateliers DDD 2026.
 ## Contenu
 - [Atelier 1 : Aligner & Découvrir le domaine](./atelier-1.md)
 
-  - date : 
-  - lieu : 
+  - date :  12/03/2026 de 18h à 21h
+  - lieu :  maison des associations de Toulouse
   - lien meetup :
-  - intervenants: Guillaume, 
+  - intervenants: Guillaume, Samuel
   - public cible : PO, développeurs, domain experts, Scrum Master
   - mots clés: DDD, Event Storming, Impact Mapping 
