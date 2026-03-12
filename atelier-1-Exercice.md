@@ -268,11 +268,11 @@ Quelques principes pour que l’atelier fonctionne bien :
 
 Pendant l’atelier, nous noterons les termes métier importants.
 
-| Terme | Signification |
-| ----- | ------------- |
-|       |               |
-|       |               |
-|       |               |
+| Terme | Signification |  Synonymes   |  Antonymes |
+| ----- | ------------- |------------- |------------- |
+|       |               |              |              |
+|       |               |              |              |
+|       |               |              |              |
 
 ---
 
