@@ -9,7 +9,7 @@ Ceci est le site pour les ateliers DDD 2026.
 
 ## Prochain Contenu
 
-- [Atelier 2 : Modéliser les processus, les contextes et leur dépendances](./serie-produit-agile-ddd.md#atelier-2--modéliser-les-processus-les-contextes-et-leur-dépendances-2h30)
+- [Atelier 2 : Modéliser les processus, les contextes et leur dépendances](./serie-produit-agile-ddd.md#atelier-2)
 
   - date :  16/04/2026 de 18h à 21h
   - lieu :  maison des associations de Toulouse
@@ -19,7 +19,7 @@ Ceci est le site pour les ateliers DDD 2026.
   - mots clés: DDD, Event Modeling, AI augmented, Ubiquitous Language
 
 ## Episodes précédents
-- [Atelier 1 : Aligner & Découvrir le domaine](./serie-produit-agile-ddd.md#atelier-1--aligner--découvrir-le-domaine-2h)
+- [Atelier 1 : Aligner & Découvrir le domaine](./serie-produit-agile-ddd.md#atelier-1)
 
   - date :  12/03/2026 de 18h à 21h
   - lieu :  maison des associations de Toulouse

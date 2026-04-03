@@ -9,6 +9,7 @@ title: Série Le Produit Agile
 ---
 
 ## **Atelier 1 : Aligner & Découvrir le domaine** (2h)
+{: #atelier-1}
 **Focus DDD : Understand + Discover**
 
 ### Understand - Comprendre le business (30min)
@@ -30,7 +31,8 @@ title: Série Le Produit Agile
 
 ---
 
-## **Atelier 2 : Modéliser les processus, les contextes et leur dépendances ** (2h30)
+## **Atelier 2 : Modéliser les processus, les contextes et leur dépendances** (2h30)
+{: #atelier-2}
 **Focus DDD : Discover (Process Level) avec Event Modelling**
 
 ### Event Modelling - Domain Message Flow Modelling (1h00)
@@ -79,6 +81,7 @@ https://chrissimon.au/speaking/talks/talk-the-talk-and-walk-the-walk-with-a-livi
 ---
 
 ## **Atelier 3 : Décomposer & Prioriser** (2h)
+{: #atelier-3}
 **Focus DDD : Decompose + Strategize**
 
 ### Decompose - Découper en sous-domaines (1h)
@@ -104,6 +107,7 @@ https://chrissimon.au/speaking/talks/talk-the-talk-and-walk-the-walk-with-a-livi
 ---
 
 ## **Atelier 4 : Connecter & Cartographier** (2h)
+{: #atelier-4}
 **Focus DDD : Connect + Organise**
 
 ### Connect - Domain Message Flow (1h10)
@@ -129,6 +133,7 @@ https://chrissimon.au/speaking/talks/talk-the-talk-and-walk-the-walk-with-a-livi
 ---
 
 ## **Atelier 5 : Organiser & Spécifier** (2h)
+{: #atelier-5}
 **Focus DDD : Organise + Define avec spécifications exécutables**
 
 ### User Story Mapping (1h)
@@ -156,6 +161,7 @@ https://chrissimon.au/speaking/talks/talk-the-talk-and-walk-the-walk-with-a-livi
 ---
 
 ## **Atelier 6 : Spécifications tactiques & Code IA** (2h)
+{: #atelier-6}
 **Focus DDD : Define (tactique) + Code**
 
 ### Design tactique & Spécifications complètes (50min)
