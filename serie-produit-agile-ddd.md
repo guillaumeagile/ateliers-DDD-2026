@@ -31,7 +31,7 @@ title: Série Le Produit Agile
 
 ---
 
-## **Atelier 2 : Modéliser les processus, les contextes et leur dépendances** (2h30)
+## Atelier 2 : Modéliser les processus, les contextes et leur dépendances (2h30)
 {: #atelier-2}
 **Focus DDD : Discover (Process Level) avec Event Modelling**
 
@@ -80,7 +80,7 @@ https://chrissimon.au/speaking/talks/talk-the-talk-and-walk-the-walk-with-a-livi
 
 ---
 
-## **Atelier 3 : Décomposer & Prioriser** (2h)
+## Atelier 3 : Décomposer & Prioriser (2h)
 {: #atelier-3}
 **Focus DDD : Decompose + Strategize**
 
@@ -106,7 +106,7 @@ https://chrissimon.au/speaking/talks/talk-the-talk-and-walk-the-walk-with-a-livi
 
 ---
 
-## **Atelier 4 : Connecter & Cartographier** (2h)
+## Atelier 4 : Connecter & Cartographier (2h)
 {: #atelier-4}
 **Focus DDD : Connect + Organise**
 
@@ -132,7 +132,7 @@ https://chrissimon.au/speaking/talks/talk-the-talk-and-walk-the-walk-with-a-livi
 
 ---
 
-## **Atelier 5 : Organiser & Spécifier** (2h)
+## Atelier 5 : Organiser & Spécifier (2h)
 {: #atelier-5}
 **Focus DDD : Organise + Define avec spécifications exécutables**
 
@@ -160,7 +160,7 @@ https://chrissimon.au/speaking/talks/talk-the-talk-and-walk-the-walk-with-a-livi
 
 ---
 
-## **Atelier 6 : Spécifications tactiques & Code IA** (2h)
+## Atelier 6 : Spécifications tactiques & Code IA (2h)
 {: #atelier-6}
 **Focus DDD : Define (tactique) + Code**
 
