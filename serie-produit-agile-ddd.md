@@ -30,20 +30,46 @@ title: Série Le Produit Agile
 
 ---
 
-## **Atelier 2 : Modéliser les processus** (2h)
+## **Atelier 2 : Modéliser les processus, les contextes et leur dépendances ** (2h30)
 **Focus DDD : Discover (Process Level) avec Event Modelling**
 
-### Event Modelling - Process Level (1h40)
+### Event Modelling - Domain Message Flow Modelling (1h00)
+
+ https://github.com/ddd-crew/domain-message-flow-modelling
+
 - Approfondissement du périmètre sélectionné
-- Ajout des **commandes** (intentions utilisateur)
-- Identification des **Read Models** (vues/écrans nécessaires)
+- Focus sur : Command - Event - Query 
 - Modélisation des **états** du système et leurs transitions
 - Acteurs et leurs interactions avec le système
-- Wireframes légers des interfaces clés
+- Découpage en Bounded Context
 
 ### Validation & Ajustements (20min)
 - Passage en revue des scénarios critiques
 - Identification des points à clarifier
+
+
+### Bounded Context Mapping
+
+un Bounded Context est une unité de découpage du système qui définit une sphère d'influence et de connaissance (Evans).
+Il permet de modéliser les interactions entre différents sous-systèmes ou modules du système, en mettant en évidence les dépendances et les collaborations entre eux.
+
+https://github.com/ddd-crew/context-mapping
+-  présentation des concepts: 
+  - Mutually Dependant 
+  - Upstream Downstream
+  - Free
+- présentation des patterns:
+  - Open Host Service
+  - Conformist
+  - Anti Corruption Layer
+ 
+https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps?slide=26
+
+
+### Et l'iA ? (30mn)
+- Exploration des possibilités d'intégration d'iA dans le processus d'Event Modelling
+- Évaluation des impacts sur la terminologie du modèle et l' Ubiquitous Language
+- Application des procédés de Context Mapping à l'ontologie d'un Ubiquitous Language aidé par l'IA
 
 **Outils PO** : Event Modelling  
 **Livrable** : Modèle événementiel complet avec commandes, événements et read models
