@@ -71,8 +71,10 @@ https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-con
 - Évaluation des impacts sur la terminologie du modèle et l' Ubiquitous Language
 - Application des procédés de Context Mapping à l'ontologie d'un Ubiquitous Language aidé par l'IA
 
-**Outils PO** : Event Modelling  
-**Livrable** : Modèle événementiel complet avec commandes, événements et read models
+https://chrissimon.au/speaking/talks/talk-the-talk-and-walk-the-walk-with-a-living-language/?read-more=1
+
+**Outils PO** : Event Modelling / Domain Message Flow Modelling
+**Livrable** : Modèle événementiel complet avec commandes, événements ; découpage Bounded Context, glossaires d'Ubiquitous Language
 
 ---
 
