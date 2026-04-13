@@ -1,5 +1,8 @@
 # GitHub Pages Jekyll Site
 
+To view this site online, go to https://guillaumeagile.github.io/ateliers-DDD-2026/
+
+
 To view this site locally (MacOS only):
 
 1. Install Ruby (if not already installed). On macOS with Homebrew:

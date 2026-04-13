@@ -37,7 +37,7 @@ title: Série Le Produit Agile
 
 ### Event Modelling - Domain Message Flow Modelling (1h00)
 
- https://github.com/ddd-crew/domain-message-flow-modelling
+[Domain Message Flow Modelling](https://github.com/ddd-crew/domain-message-flow-modelling)
 
 - Approfondissement du périmètre sélectionné
 - Focus sur : Command - Event - Query 
@@ -55,7 +55,7 @@ title: Série Le Produit Agile
 un Bounded Context est une unité de découpage du système qui définit une sphère d'influence et de connaissance (Evans).
 Il permet de modéliser les interactions entre différents sous-systèmes ou modules du système, en mettant en évidence les dépendances et les collaborations entre eux.
 
-https://github.com/ddd-crew/context-mapping
+[Context Mapping](https://github.com/ddd-crew/context-mapping)
 -  présentation des concepts: 
   - Mutually Dependant 
   - Upstream Downstream
@@ -65,7 +65,7 @@ https://github.com/ddd-crew/context-mapping
   - Conformist
   - Anti Corruption Layer
  
-https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps?slide=26
+[Visualizing Sociotechnical Architectures with Context Maps](https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-context-maps?slide=26)
 
 
 ### Et l'iA ? (30mn)
@@ -73,7 +73,7 @@ https://speakerdeck.com/mploed/visualizing-sociotechnical-architectures-with-con
 - Évaluation des impacts sur la terminologie du modèle et l' Ubiquitous Language
 - Application des procédés de Context Mapping à l'ontologie d'un Ubiquitous Language aidé par l'IA
 
-https://chrissimon.au/speaking/talks/talk-the-talk-and-walk-the-walk-with-a-living-language/?read-more=1
+[Talk the Talk and Walk the Walk with a Living Language](https://chrissimon.au/speaking/talks/talk-the-talk-and-walk-the-walk-with-a-living-language/?read-more=1)
 
 **Outils PO** : Event Modelling / Domain Message Flow Modelling
 **Livrable** : Modèle événementiel complet avec commandes, événements ; découpage Bounded Context, glossaires d'Ubiquitous Language
